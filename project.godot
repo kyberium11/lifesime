@@ -1,0 +1,33 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+
+config/name="Pocket Village"
+run/main_scene="res://scenes/village3d.tscn"
+config/features=PackedStringArray("4.4")
+
+[autoload]
+
+Data="*res://scripts/data.gd"
+GameClock="*res://scripts/game_clock.gd"
+
+[display]
+
+window/size/viewport_width=1440
+window/size/viewport_height=900
+window/size/window_width_override=1440
+window/size/window_height_override=900
+window/stretch/mode="canvas_items"
+
+[rendering]
+
+renderer/rendering_method="forward_plus"
+anti_aliasing/quality/msaa_3d=2
+
+textures/canvas_textures/default_texture_filter=0
+environment/defaults/default_clear_color=Color(0.08, 0.09, 0.12, 1)
+
+[audio]
+
+driver/enable_input=true

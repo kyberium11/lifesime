@@ -1,0 +1,11 @@
+{
+	"claude_interval_seconds": 45,
+	"ollama_url": "http://127.0.0.1:11434/api/chat",
+	"model": "Qwen3.5:latest",
+	"temperature": 0.8,
+	"num_ctx": 4096,
+	"num_predict": 220,
+	"keep_alive": "2h",
+	"timeout_seconds": 120,
+	"pause_while_thinking": true
+}

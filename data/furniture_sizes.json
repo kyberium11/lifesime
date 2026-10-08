@@ -1,0 +1,1694 @@
+{
+	"_villager": {
+		"base": -1.0,
+		"center": [
+			0,
+			0
+		],
+		"size": [
+			8.0,
+			9.0,
+			8.0
+		]
+	},
+	"bathroomCabinet": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.1
+		],
+		"size": [
+			0.43,
+			0.39,
+			0.22
+		]
+	},
+	"bathroomCabinetDrawer": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.215
+		],
+		"size": [
+			0.43,
+			0.53,
+			0.47
+		]
+	},
+	"bathroomMirror": {
+		"base": 0.0,
+		"center": [
+			0.151,
+			0.023
+		],
+		"size": [
+			0.301,
+			0.435,
+			0.144
+		]
+	},
+	"bathroomSink": {
+		"base": -0.4,
+		"center": [
+			0.17,
+			-0.145
+		],
+		"size": [
+			0.34,
+			0.56,
+			0.29
+		]
+	},
+	"bathroomSinkSquare": {
+		"base": 0.057,
+		"center": [
+			0.215,
+			-0.3
+		],
+		"size": [
+			0.43,
+			0.58,
+			0.3
+		]
+	},
+	"bathtub": {
+		"base": 0.0,
+		"center": [
+			0.595,
+			-0.28
+		],
+		"size": [
+			1.19,
+			0.42,
+			0.56
+		]
+	},
+	"bear": {
+		"base": 0.0,
+		"center": [
+			0.195,
+			-0.124
+		],
+		"size": [
+			0.39,
+			0.45,
+			0.248
+		]
+	},
+	"bedBunk": {
+		"base": -0.13,
+		"center": [
+			0.753,
+			-0.946
+		],
+		"size": [
+			1.623,
+			0.98,
+			1.892
+		]
+	},
+	"bedDouble": {
+		"base": -0.13,
+		"center": [
+			0.753,
+			-0.936
+		],
+		"size": [
+			1.623,
+			0.505,
+			1.912
+		]
+	},
+	"bedSingle": {
+		"base": -0.13,
+		"center": [
+			0.753,
+			-0.946
+		],
+		"size": [
+			1.623,
+			0.505,
+			1.892
+		]
+	},
+	"bench": {
+		"base": 0.0,
+		"center": [
+			0.2,
+			-0.1
+		],
+		"size": [
+			0.4,
+			0.47,
+			0.2
+		]
+	},
+	"benchCushion": {
+		"base": 0.0,
+		"center": [
+			0.2,
+			-0.1
+		],
+		"size": [
+			0.4,
+			0.46,
+			0.2
+		]
+	},
+	"benchCushionLow": {
+		"base": 0.0,
+		"center": [
+			0.2,
+			-0.1
+		],
+		"size": [
+			0.42,
+			0.2,
+			0.22
+		]
+	},
+	"bookcaseClosed": {
+		"base": 0.0,
+		"center": [
+			0.2,
+			-0.125
+		],
+		"size": [
+			0.4,
+			0.85,
+			0.25
+		]
+	},
+	"bookcaseClosedDoors": {
+		"base": 0.0,
+		"center": [
+			0.12,
+			-0.115
+		],
+		"size": [
+			0.56,
+			0.85,
+			0.27
+		]
+	},
+	"bookcaseClosedWide": {
+		"base": 0.0,
+		"center": [
+			0.4,
+			-0.125
+		],
+		"size": [
+			0.8,
+			0.79,
+			0.25
+		]
+	},
+	"bookcaseOpen": {
+		"base": 0.0,
+		"center": [
+			0.2,
+			-0.125
+		],
+		"size": [
+			0.4,
+			0.88,
+			0.25
+		]
+	},
+	"bookcaseOpenLow": {
+		"base": 0.0,
+		"center": [
+			0.2,
+			-0.125
+		],
+		"size": [
+			0.4,
+			0.4,
+			0.25
+		]
+	},
+	"books": {
+		"base": 0.0,
+		"center": [
+			0.075,
+			-0.047
+		],
+		"size": [
+			0.15,
+			0.104,
+			0.094
+		]
+	},
+	"cabinetBed": {
+		"base": 0.0,
+		"center": [
+			0.123,
+			-0.096
+		],
+		"size": [
+			0.266,
+			0.233,
+			0.217
+		]
+	},
+	"cabinetBedDrawer": {
+		"base": 0.0,
+		"center": [
+			0.123,
+			-0.014
+		],
+		"size": [
+			0.266,
+			0.263,
+			0.381
+		]
+	},
+	"cabinetBedDrawerTable": {
+		"base": 0.0,
+		"center": [
+			0.123,
+			-0.014
+		],
+		"size": [
+			0.266,
+			0.263,
+			0.381
+		]
+	},
+	"cabinetTelevision": {
+		"base": 0.0,
+		"center": [
+			0.4,
+			-0.125
+		],
+		"size": [
+			0.8,
+			0.31,
+			0.25
+		]
+	},
+	"cabinetTelevisionDoors": {
+		"base": 0.0,
+		"center": [
+			0.22,
+			-0.11
+		],
+		"size": [
+			1.16,
+			0.31,
+			0.28
+		]
+	},
+	"cardboardBoxClosed": {
+		"base": 0.0,
+		"center": [
+			0.106,
+			-0.106
+		],
+		"size": [
+			0.212,
+			0.281,
+			0.212
+		]
+	},
+	"cardboardBoxOpen": {
+		"base": 0.0,
+		"center": [
+			0.106,
+			-0.106
+		],
+		"size": [
+			0.372,
+			0.281,
+			0.212
+		]
+	},
+	"ceilingFan": {
+		"base": -0.134,
+		"center": [
+			0.055,
+			-0.001
+		],
+		"size": [
+			0.455,
+			0.134,
+			0.525
+		]
+	},
+	"chair": {
+		"base": 0.0,
+		"center": [
+			0.1,
+			-0.1
+		],
+		"size": [
+			0.2,
+			0.47,
+			0.2
+		]
+	},
+	"chairCushion": {
+		"base": 0.0,
+		"center": [
+			0.1,
+			-0.1
+		],
+		"size": [
+			0.2,
+			0.46,
+			0.2
+		]
+	},
+	"chairDesk": {
+		"base": 0.0,
+		"center": [
+			0.072,
+			-0.062
+		],
+		"size": [
+			0.479,
+			0.418,
+			0.443
+		]
+	},
+	"chairModernCushion": {
+		"base": 0.0,
+		"center": [
+			0.1,
+			-0.1
+		],
+		"size": [
+			0.2,
+			0.46,
+			0.2
+		]
+	},
+	"chairModernFrameCushion": {
+		"base": 0.0,
+		"center": [
+			0.1,
+			-0.1
+		],
+		"size": [
+			0.2,
+			0.46,
+			0.2
+		]
+	},
+	"chairRounded": {
+		"base": 0.0,
+		"center": [
+			0.1,
+			-0.1
+		],
+		"size": [
+			0.2,
+			0.455,
+			0.2
+		]
+	},
+	"coatRack": {
+		"base": 0.0,
+		"center": [
+			0.224,
+			-0.067
+		],
+		"size": [
+			0.448,
+			0.28,
+			0.134
+		]
+	},
+	"coatRackStanding": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.0
+		],
+		"size": [
+			0.273,
+			0.77,
+			0.273
+		]
+	},
+	"computerKeyboard": {
+		"base": 0.0,
+		"center": [
+			0.141,
+			-0.059
+		],
+		"size": [
+			0.282,
+			0.028,
+			0.118
+		]
+	},
+	"computerMouse": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			-0.043
+		],
+		"size": [
+			0.05,
+			0.024,
+			0.085
+		]
+	},
+	"computerScreen": {
+		"base": 0.0,
+		"center": [
+			0.196,
+			-0.052
+		],
+		"size": [
+			0.393,
+			0.294,
+			0.104
+		]
+	},
+	"desk": {
+		"base": 0.0,
+		"center": [
+			0.357,
+			-0.102
+		],
+		"size": [
+			0.734,
+			0.384,
+			0.556
+		]
+	},
+	"deskCorner": {
+		"base": 0.0,
+		"center": [
+			0.487,
+			-0.399
+		],
+		"size": [
+			0.974,
+			0.384,
+			1.151
+		]
+	},
+	"doorway": {
+		"base": 0.0,
+		"center": [
+			0.243,
+			-0.016
+		],
+		"size": [
+			0.486,
+			1.01,
+			0.146
+		]
+	},
+	"doorwayFront": {
+		"base": 0.0,
+		"center": [
+			0.243,
+			-0.016
+		],
+		"size": [
+			0.486,
+			1.01,
+			0.146
+		]
+	},
+	"doorwayOpen": {
+		"base": 0.0,
+		"center": [
+			0.243,
+			-0.045
+		],
+		"size": [
+			0.486,
+			1.01,
+			0.089
+		]
+	},
+	"dryer": {
+		"base": -0.13,
+		"center": [
+			0.195,
+			-0.16
+		],
+		"size": [
+			0.39,
+			0.6,
+			0.38
+		]
+	},
+	"floorCorner": {
+		"base": 0.0,
+		"center": [
+			0.275,
+			-0.275
+		],
+		"size": [
+			0.55,
+			0.05,
+			0.55
+		]
+	},
+	"floorCornerRound": {
+		"base": 0.0,
+		"center": [
+			0.275,
+			-0.275
+		],
+		"size": [
+			0.55,
+			0.05,
+			0.55
+		]
+	},
+	"floorFull": {
+		"base": 0.0,
+		"center": [
+			0.5,
+			-0.5
+		],
+		"size": [
+			1.0,
+			0.05,
+			1.0
+		]
+	},
+	"floorHalf": {
+		"base": 0.0,
+		"center": [
+			0.25,
+			-0.5
+		],
+		"size": [
+			0.5,
+			0.05,
+			1.0
+		]
+	},
+	"hoodLarge": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.142
+		],
+		"size": [
+			0.43,
+			0.37,
+			0.285
+		]
+	},
+	"hoodModern": {
+		"base": -0.03,
+		"center": [
+			0.215,
+			-0.142
+		],
+		"size": [
+			0.43,
+			0.4,
+			0.285
+		]
+	},
+	"kitchenBar": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.105
+		],
+		"size": [
+			0.43,
+			0.42,
+			0.21
+		]
+	},
+	"kitchenBarEnd": {
+		"base": 0.0,
+		"center": [
+			0.051,
+			-0.105
+		],
+		"size": [
+			0.102,
+			0.42,
+			0.21
+		]
+	},
+	"kitchenBlender": {
+		"base": 0.0,
+		"center": [
+			0.066,
+			-0.066
+		],
+		"size": [
+			0.172,
+			0.16,
+			0.132
+		]
+	},
+	"kitchenCabinet": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.21
+		],
+		"size": [
+			0.43,
+			0.45,
+			0.48
+		]
+	},
+	"kitchenCabinetCornerInner": {
+		"base": 0.0,
+		"center": [
+			0.23,
+			-0.23
+		],
+		"size": [
+			0.46,
+			0.45,
+			0.46
+		]
+	},
+	"kitchenCabinetCornerRound": {
+		"base": 0.0,
+		"center": [
+			0.225,
+			-0.225
+		],
+		"size": [
+			0.45,
+			0.45,
+			0.45
+		]
+	},
+	"kitchenCabinetDrawer": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.21
+		],
+		"size": [
+			0.43,
+			0.45,
+			0.48
+		]
+	},
+	"kitchenCabinetUpper": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.095
+		],
+		"size": [
+			0.43,
+			0.39,
+			0.23
+		]
+	},
+	"kitchenCabinetUpperCorner": {
+		"base": 0.0,
+		"center": [
+			0.108,
+			-0.105
+		],
+		"size": [
+			0.215,
+			0.39,
+			0.21
+		]
+	},
+	"kitchenCabinetUpperDouble": {
+		"base": 0.0,
+		"center": [
+			0.121,
+			-0.095
+		],
+		"size": [
+			0.618,
+			0.39,
+			0.23
+		]
+	},
+	"kitchenCabinetUpperLow": {
+		"base": -0.141,
+		"center": [
+			0.215,
+			-0.095
+		],
+		"size": [
+			0.43,
+			0.336,
+			0.23
+		]
+	},
+	"kitchenCoffeeMachine": {
+		"base": 0.0,
+		"center": [
+			0.103,
+			-0.139
+		],
+		"size": [
+			0.274,
+			0.303,
+			0.33
+		]
+	},
+	"kitchenFridge": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.123
+		],
+		"size": [
+			0.43,
+			0.92,
+			0.317
+		]
+	},
+	"kitchenFridgeBuiltIn": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.207
+		],
+		"size": [
+			0.43,
+			0.869,
+			0.485
+		]
+	},
+	"kitchenFridgeLarge": {
+		"base": -0.403,
+		"center": [
+			0.123,
+			-0.149
+		],
+		"size": [
+			0.793,
+			1.323,
+			0.386
+		]
+	},
+	"kitchenFridgeSmall": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.123
+		],
+		"size": [
+			0.43,
+			0.6,
+			0.317
+		]
+	},
+	"kitchenMicrowave": {
+		"base": 0.0,
+		"center": [
+			0.145,
+			-0.105
+		],
+		"size": [
+			0.29,
+			0.18,
+			0.23
+		]
+	},
+	"kitchenSink": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.21
+		],
+		"size": [
+			0.43,
+			0.49,
+			0.48
+		]
+	},
+	"kitchenStove": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.21
+		],
+		"size": [
+			0.43,
+			0.45,
+			0.48
+		]
+	},
+	"kitchenStoveElectric": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.225
+		],
+		"size": [
+			0.43,
+			0.45,
+			0.45
+		]
+	},
+	"lampRoundFloor": {
+		"base": 0.0,
+		"center": [
+			0.06,
+			-0.06
+		],
+		"size": [
+			0.152,
+			0.86,
+			0.176
+		]
+	},
+	"lampRoundTable": {
+		"base": 0.0,
+		"center": [
+			0.06,
+			-0.06
+		],
+		"size": [
+			0.152,
+			0.314,
+			0.176
+		]
+	},
+	"lampSquareCeiling": {
+		"base": 0.0,
+		"center": [
+			0.06,
+			-0.06
+		],
+		"size": [
+			0.12,
+			0.23,
+			0.12
+		]
+	},
+	"lampSquareFloor": {
+		"base": 0.0,
+		"center": [
+			0.06,
+			-0.06
+		],
+		"size": [
+			0.12,
+			0.86,
+			0.12
+		]
+	},
+	"lampSquareTable": {
+		"base": 0.0,
+		"center": [
+			0.06,
+			-0.06
+		],
+		"size": [
+			0.12,
+			0.29,
+			0.12
+		]
+	},
+	"lampWall": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.13
+		],
+		"size": [
+			0.391,
+			0.16,
+			0.259
+		]
+	},
+	"laptop": {
+		"base": 0.0,
+		"center": [
+			0.3,
+			-0.273
+		],
+		"size": [
+			0.6,
+			0.368,
+			0.546
+		]
+	},
+	"loungeChair": {
+		"base": 0.0,
+		"center": [
+			0.245,
+			-0.205
+		],
+		"size": [
+			0.49,
+			0.46,
+			0.41
+		]
+	},
+	"loungeChairRelax": {
+		"base": 0.0,
+		"center": [
+			0.245,
+			-0.337
+		],
+		"size": [
+			0.49,
+			0.63,
+			0.675
+		]
+	},
+	"loungeDesignChair": {
+		"base": 0.0,
+		"center": [
+			0.365,
+			-0.205
+		],
+		"size": [
+			0.73,
+			0.4,
+			0.41
+		]
+	},
+	"loungeDesignSofa": {
+		"base": 0.0,
+		"center": [
+			0.56,
+			-0.205
+		],
+		"size": [
+			1.12,
+			0.4,
+			0.41
+		]
+	},
+	"loungeDesignSofaCorner": {
+		"base": 0.0,
+		"center": [
+			0.675,
+			-0.675
+		],
+		"size": [
+			1.35,
+			0.4,
+			1.35
+		]
+	},
+	"loungeSofa": {
+		"base": 0.0,
+		"center": [
+			0.49,
+			-0.205
+		],
+		"size": [
+			0.98,
+			0.46,
+			0.41
+		]
+	},
+	"loungeSofaCorner": {
+		"base": 0.0,
+		"center": [
+			0.49,
+			-0.49
+		],
+		"size": [
+			0.98,
+			0.46,
+			0.98
+		]
+	},
+	"loungeSofaLong": {
+		"base": 0.0,
+		"center": [
+			0.49,
+			0.0
+		],
+		"size": [
+			0.98,
+			0.46,
+			0.82
+		]
+	},
+	"loungeSofaOttoman": {
+		"base": 0.0,
+		"center": [
+			0.69,
+			0.185
+		],
+		"size": [
+			0.44,
+			0.23,
+			0.45
+		]
+	},
+	"paneling": {
+		"base": 0.0,
+		"center": [
+			0.25,
+			0.015
+		],
+		"size": [
+			0.5,
+			0.595,
+			0.03
+		]
+	},
+	"pillow": {
+		"base": 0.0,
+		"center": [
+			0.115,
+			-0.044
+		],
+		"size": [
+			0.23,
+			0.222,
+			0.088
+		]
+	},
+	"pillowBlue": {
+		"base": 0.0,
+		"center": [
+			0.115,
+			-0.032
+		],
+		"size": [
+			0.23,
+			0.129,
+			0.063
+		]
+	},
+	"pillowBlueLong": {
+		"base": 0.0,
+		"center": [
+			0.128,
+			-0.044
+		],
+		"size": [
+			0.517,
+			0.222,
+			0.088
+		]
+	},
+	"pillowLong": {
+		"base": 0.0,
+		"center": [
+			0.193,
+			-0.044
+		],
+		"size": [
+			0.387,
+			0.222,
+			0.088
+		]
+	},
+	"plantSmall1": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.0
+		],
+		"size": [
+			0.189,
+			0.28,
+			0.189
+		]
+	},
+	"plantSmall2": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.0
+		],
+		"size": [
+			0.189,
+			0.28,
+			0.189
+		]
+	},
+	"plantSmall3": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.0
+		],
+		"size": [
+			0.17,
+			0.29,
+			0.196
+		]
+	},
+	"pottedPlant": {
+		"base": 0.0,
+		"center": [
+			0.085,
+			-0.096
+		],
+		"size": [
+			0.255,
+			0.536,
+			0.291
+		]
+	},
+	"radio": {
+		"base": 0.0,
+		"center": [
+			0.157,
+			-0.049
+		],
+		"size": [
+			0.315,
+			0.228,
+			0.098
+		]
+	},
+	"rugDoormat": {
+		"base": 0.0,
+		"center": [
+			0.215,
+			-0.119
+		],
+		"size": [
+			0.429,
+			0.01,
+			0.237
+		]
+	},
+	"rugRectangle": {
+		"base": 0.0,
+		"center": [
+			0.785,
+			-0.46
+		],
+		"size": [
+			1.57,
+			0.01,
+			0.92
+		]
+	},
+	"rugRound": {
+		"base": 0.0,
+		"center": [
+			0.46,
+			-0.46
+		],
+		"size": [
+			0.92,
+			0.01,
+			0.92
+		]
+	},
+	"rugRounded": {
+		"base": 0.0,
+		"center": [
+			0.785,
+			-0.46
+		],
+		"size": [
+			1.57,
+			0.01,
+			0.92
+		]
+	},
+	"rugSquare": {
+		"base": 0.0,
+		"center": [
+			0.452,
+			-0.46
+		],
+		"size": [
+			0.904,
+			0.01,
+			0.92
+		]
+	},
+	"shower": {
+		"base": 0.0,
+		"center": [
+			0.63,
+			-0.64
+		],
+		"size": [
+			1.3,
+			2.493,
+			1.28
+		]
+	},
+	"showerRound": {
+		"base": 0.0,
+		"center": [
+			0.092,
+			-0.092
+		],
+		"size": [
+			0.94,
+			1.094,
+			0.94
+		]
+	},
+	"sideTable": {
+		"base": 0.0,
+		"center": [
+			0.257,
+			-0.1
+		],
+		"size": [
+			0.534,
+			0.384,
+			0.22
+		]
+	},
+	"sideTableDrawers": {
+		"base": 0.0,
+		"center": [
+			0.257,
+			-0.017
+		],
+		"size": [
+			0.534,
+			0.384,
+			0.386
+		]
+	},
+	"speaker": {
+		"base": 0.0,
+		"center": [
+			0.074,
+			-0.074
+		],
+		"size": [
+			0.148,
+			0.636,
+			0.148
+		]
+	},
+	"speakerSmall": {
+		"base": 0.0,
+		"center": [
+			0.074,
+			-0.067
+		],
+		"size": [
+			0.148,
+			0.298,
+			0.133
+		]
+	},
+	"stairs": {
+		"base": 0.0,
+		"center": [
+			0.912,
+			-0.395
+		],
+		"size": [
+			1.823,
+			1.34,
+			0.79
+		]
+	},
+	"stairsCorner": {
+		"base": 0.0,
+		"center": [
+			1.051,
+			-0.713
+		],
+		"size": [
+			1.774,
+			1.34,
+			1.426
+		]
+	},
+	"stairsOpen": {
+		"base": 0.0,
+		"center": [
+			0.912,
+			-0.395
+		],
+		"size": [
+			1.823,
+			1.34,
+			0.79
+		]
+	},
+	"stairsOpenSingle": {
+		"base": 0.0,
+		"center": [
+			0.912,
+			-0.395
+		],
+		"size": [
+			1.823,
+			1.34,
+			0.79
+		]
+	},
+	"stoolBar": {
+		"base": 0.0,
+		"center": [
+			0.133,
+			-0.115
+		],
+		"size": [
+			0.265,
+			0.435,
+			0.23
+		]
+	},
+	"stoolBarSquare": {
+		"base": 0.0,
+		"center": [
+			0.133,
+			-0.115
+		],
+		"size": [
+			0.153,
+			0.405,
+			0.148
+		]
+	},
+	"table": {
+		"base": 0.0,
+		"center": [
+			0.421,
+			-0.224
+		],
+		"size": [
+			0.841,
+			0.327,
+			0.447
+		]
+	},
+	"tableCloth": {
+		"base": 0.0,
+		"center": [
+			0.421,
+			-0.224
+		],
+		"size": [
+			0.841,
+			0.327,
+			0.447
+		]
+	},
+	"tableCoffee": {
+		"base": 0.0,
+		"center": [
+			-0.13,
+			-0.1
+		],
+		"size": [
+			0.661,
+			0.23,
+			0.4
+		]
+	},
+	"tableCoffeeGlass": {
+		"base": 0.0,
+		"center": [
+			-0.13,
+			-0.1
+		],
+		"size": [
+			0.661,
+			0.23,
+			0.4
+		]
+	},
+	"tableCoffeeGlassSquare": {
+		"base": 0.0,
+		"center": [
+			-0.261,
+			-0.1
+		],
+		"size": [
+			0.4,
+			0.23,
+			0.4
+		]
+	},
+	"tableCoffeeSquare": {
+		"base": 0.0,
+		"center": [
+			-0.261,
+			-0.1
+		],
+		"size": [
+			0.4,
+			0.23,
+			0.4
+		]
+	},
+	"tableCross": {
+		"base": 0.0,
+		"center": [
+			1.014,
+			-0.533
+		],
+		"size": [
+			2.029,
+			0.827,
+			1.065
+		]
+	},
+	"tableCrossCloth": {
+		"base": 0.0,
+		"center": [
+			1.014,
+			-0.533
+		],
+		"size": [
+			2.029,
+			0.827,
+			1.065
+		]
+	},
+	"tableGlass": {
+		"base": 0.0,
+		"center": [
+			0.421,
+			-0.224
+		],
+		"size": [
+			0.841,
+			0.327,
+			0.447
+		]
+	},
+	"tableRound": {
+		"base": -0.27,
+		"center": [
+			0.346,
+			-0.4
+		],
+		"size": [
+			0.693,
+			0.367,
+			0.8
+		]
+	},
+	"televisionAntenna": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			-0.04
+		],
+		"size": [
+			0.265,
+			0.103,
+			0.08
+		]
+	},
+	"televisionModern": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.0
+		],
+		"size": [
+			0.685,
+			0.455,
+			0.128
+		]
+	},
+	"televisionVintage": {
+		"base": 0.0,
+		"center": [
+			0.205,
+			-0.135
+		],
+		"size": [
+			0.41,
+			0.27,
+			0.27
+		]
+	},
+	"toaster": {
+		"base": 0.0,
+		"center": [
+			0.0,
+			0.0
+		],
+		"size": [
+			0.188,
+			0.13,
+			0.1
+		]
+	},
+	"toilet": {
+		"base": 0.0,
+		"center": [
+			0.502,
+			-0.263
+		],
+		"size": [
+			1.005,
+			0.949,
+			0.79
+		]
+	},
+	"toiletSquare": {
+		"base": 0.0,
+		"center": [
+			0.03,
+			-0.145
+		],
+		"size": [
+			0.547,
+			0.451,
+			0.485
+		]
+	},
+	"trashcan": {
+		"base": 0.0,
+		"center": [
+			-0.011,
+			0.0
+		],
+		"size": [
+			0.496,
+			0.906,
+			0.44
+		]
+	},
+	"wall": {
+		"base": 0.0,
+		"center": [
+			0.5,
+			-0.025
+		],
+		"size": [
+			1.0,
+			1.29,
+			0.05
+		]
+	},
+	"wallCorner": {
+		"base": 0.0,
+		"center": [
+			0.275,
+			-0.275
+		],
+		"size": [
+			0.55,
+			1.29,
+			0.55
+		]
+	},
+	"wallCornerRond": {
+		"base": 0.0,
+		"center": [
+			0.275,
+			-0.275
+		],
+		"size": [
+			0.55,
+			1.29,
+			0.55
+		]
+	},
+	"wallDoorway": {
+		"base": 0.0,
+		"center": [
+			0.5,
+			-0.025
+		],
+		"size": [
+			1.0,
+			1.29,
+			0.089
+		]
+	},
+	"wallDoorwayWide": {
+		"base": 0.0,
+		"center": [
+			0.5,
+			-0.025
+		],
+		"size": [
+			1.0,
+			1.29,
+			0.089
+		]
+	},
+	"wallHalf": {
+		"base": 0.0,
+		"center": [
+			0.25,
+			-0.025
+		],
+		"size": [
+			0.5,
+			1.29,
+			0.05
+		]
+	},
+	"wallWindow": {
+		"base": 0.0,
+		"center": [
+			0.5,
+			-0.025
+		],
+		"size": [
+			1.0,
+			1.29,
+			0.089
+		]
+	},
+	"wallWindowSlide": {
+		"base": 0.0,
+		"center": [
+			0.5,
+			-0.025
+		],
+		"size": [
+			1.0,
+			1.29,
+			0.089
+		]
+	},
+	"washer": {
+		"base": -0.03,
+		"center": [
+			0.195,
+			-0.11
+		],
+		"size": [
+			0.39,
+			0.5,
+			0.48
+		]
+	},
+	"washerDryerStacked": {
+		"base": -0.13,
+		"center": [
+			0.195,
+			-0.11
+		],
+		"size": [
+			0.39,
+			1.07,
+			0.48
+		]
+	}
+}

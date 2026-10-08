@@ -1,0 +1,15 @@
+.godot/
+preview*.png
+*.log
+.env
+node_modules/
+
+# downloaded voice/speech runtimes and models (large; see README for setup)
+tools/piper-env/
+tools/piper-voices/
+tools/whisper-env/
+tools/whisper-models/
+tools/f0_probe.json
+*.tmp
+*.bak
+__pycache__/

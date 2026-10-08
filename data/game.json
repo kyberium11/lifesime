@@ -1,0 +1,17 @@
+{
+	"resources": {
+		"tree":   {"item": "wood",  "amount": 3, "minutes": 8},
+		"rock":   {"item": "stone", "amount": 2, "minutes": 10},
+		"bush":   {"item": "berry", "amount": 3, "minutes": 3, "regrow_minutes": 720},
+		"garden": {"item": "berry", "amount": 4, "minutes": 3, "regrow_minutes": 300},
+		"water":  {"item": "water", "amount": 1, "minutes": 2}
+	},
+	"foods": {
+		"berry": {"hunger": 14, "mood": 1}
+	},
+	"buildings": {
+		"campfire": {"cost": {"wood": 3, "stone": 2}, "minutes": 20, "desc": "warmth and cheer, especially at night"},
+		"shelter":  {"cost": {"wood": 8, "stone": 4}, "minutes": 60, "desc": "sleep nearby for much better rest"},
+		"garden":   {"cost": {"wood": 2, "water": 2}, "minutes": 30, "desc": "a berry patch that regrows quickly"}
+	}
+}
